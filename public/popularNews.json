@@ -1,0 +1,70 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "title": "Популярная статья 1",
+      "description": "Краткое описание популярной статьи 1",
+      "imageUrl": "/images/images3.jpg",
+      "fullText": "Полное описание популярной статьи 1.",
+      "additionalImages": [
+        "/images/popular1-1.jpg",
+        "/images/popular1-2.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Популярная статья 2",
+      "description": "Краткое описание популярной статьи 2",
+      "imageUrl": "/images/images3.jpg",
+      "fullText": "Полное описание популярной статьи 2.",
+      "additionalImages": [
+        "/images/popular2-1.jpg",
+        "/images/popular2-2.jpg"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Популярная статья 2",
+      "description": "Краткое описание популярной статьи 2",
+      "imageUrl": "/images/images3.jpg",
+      "fullText": "Полное описание популярной статьи 2.",
+      "additionalImages": [
+        "/images/popular2-1.jpg",
+        "/images/popular2-2.jpg"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Популярная статья 2",
+      "description": "Краткое описание популярной статьи 2",
+      "imageUrl": "/images/images3.jpg",
+      "fullText": "Полное описание популярной статьи 2.",
+      "additionalImages": [
+        "/images/popular2-1.jpg",
+        "/images/popular2-2.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Популярная статья 2",
+      "description": "Краткое описание популярной статьи 2",
+      "imageUrl": "/images/images3.jpg",
+      "fullText": "Полное описание популярной статьи 2.",
+      "additionalImages": [
+        "/images/popular2-1.jpg",
+        "/images/popular2-2.jpg"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Популярная статья 2",
+      "description": "Краткое описание популярной статьи 2",
+      "imageUrl": "/images/images3.jpg",
+      "fullText": "Полное описание популярной статьи 2.",
+      "additionalImages": [
+        "/images/popular2-1.jpg",
+        "/images/popular2-2.jpg"
+      ]
+    }
+  ]
+}

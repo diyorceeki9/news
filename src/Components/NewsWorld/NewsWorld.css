@@ -1,0 +1,28 @@
+/* src/Components/NewsWorld/NewsWorld.css */
+.news-container {
+    width: 80%;
+    margin: 20px;
+  }
+  
+  .news-article {
+    margin-bottom: 15px;
+  }
+  
+  .news-article h3 {
+    margin: 0;
+    font-size: 1.2em;
+  }
+  
+  .news-article p {
+    margin: 5px 0;
+  }
+  
+  .news-article a {
+    color: #1e90ff;
+    text-decoration: none;
+  }
+  
+  .news-article a:hover {
+    text-decoration: underline;
+  }
+  

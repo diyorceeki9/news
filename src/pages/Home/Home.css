@@ -1,0 +1,16 @@
+/* src/pages/Home.css */
+.home {
+    padding: 20px;
+  }
+  
+  .card-container,
+  .bottom-card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .bottom-card-container {
+    margin-top: 40px;
+  }
+  
